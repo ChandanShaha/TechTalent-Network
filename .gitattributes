@@ -1,0 +1,8 @@
+# Ignore CSS and HTML from language statistics
+*.css linguist-vendored
+*.html linguist-vendored
+*.js linguist-vendored
+
+
+# Mark Java as detectable
+*.java linguist-detectable=true
